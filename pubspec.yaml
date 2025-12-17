@@ -1,5 +1,5 @@
 name: rfid_test
-description: "A new Flutter project."
+description: "A small Flutter app to test NFC/RFID tag reads on Android handhelds (e.g., C7). Shows raw tag data and provides simple start/stop scanning controls."
 publish_to: 'none'
 version: 0.1.0
 
